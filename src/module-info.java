@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author IRINA
- *
- */
-module CursJava {
-}
