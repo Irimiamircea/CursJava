@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author IRINA
+ *
+ */
+module CursJava {
+}
