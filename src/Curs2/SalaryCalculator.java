@@ -3,7 +3,7 @@ package Curs2;
 public class SalaryCalculator {
 	
 	int hoursWorked = 40;
-	int age = 25;
+	
 	
 	public static void main(String[] args) {
 		SalaryCalculator calc = new SalaryCalculator();
