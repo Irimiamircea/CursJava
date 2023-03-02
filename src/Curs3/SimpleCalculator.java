@@ -41,6 +41,8 @@ public class SimpleCalculator {
 		} else if(operation == '/') {
 			result = num1 / num2;
 			printResult();
+		} else {
+			System.out.println("Wrong operation!");
 		}
 	}
 	
