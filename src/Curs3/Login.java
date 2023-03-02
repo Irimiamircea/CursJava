@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Login {
 	
+	//exemplu pentru git
 	public void verificaLogin() {	
 		
 		String username = "test";
