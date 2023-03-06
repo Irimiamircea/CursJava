@@ -10,7 +10,7 @@ public class IfElse {
 		System.out.println("Ce punctaj ai obtinut la test?");
 		int punctaj = scan.nextInt();
 	
-		if(punctaj > 0 && punctaj <= 65 ) {
+		if(punctaj >= 0 && punctaj <= 65 ) {
 			System.out.println("Ai picat.Mai incearca.");
 		} else {
 			System.out.println("Felicitari! Ai trecut!");
