@@ -11,12 +11,12 @@ public class ForVSWhile {
 	 * printam suma totala la final
 	 */
 	public static void main(String[] args) {
-	//	rezolvareCuFor();
-		rezolvareCuWhile();
+		rezolvareCuFor();
+		//rezolvareCuWhile();
 	}
 
 		
-	/*	public static void rezolvareCuFor(){   //fara static nu mergea chemata metoda mai sus
+		public static void rezolvareCuFor(){   //fara static nu mergea chemata metoda mai sus
 			System.out.println("Please enter a number:");
 			Scanner scan = new Scanner(System.in);
 			
@@ -25,12 +25,12 @@ public class ForVSWhile {
 				System.out.println("Please enter a number:");
 				suma = suma + numar;
 			}
+			System.out.println("Suma totala este:" + suma);
 		
 		
+	} 
 		
-	} */
-		
-		public static void rezolvareCuWhile() {
+	/*	public static void rezolvareCuWhile() {
 			System.out.println("Please enter a number:");
 			Scanner scan = new Scanner(System.in);
 			
@@ -42,5 +42,5 @@ public class ForVSWhile {
 				numar = scan.nextInt();
 			}
 			System.out.println("Suma totala este:" + suma);
-		}
+		}*/
 }
